@@ -6,7 +6,7 @@
 <div size='20px'> Hi! My name is Julio. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src width = 100px></h2>
+<h2> About Me </h2>
 
 
 - 🔭 I´m currently continuing to learn new things
